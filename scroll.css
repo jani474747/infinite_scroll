@@ -1,0 +1,15 @@
+#MainDiv{
+    width : auto;
+    height: 600px;
+    border: 1px solid transparent;
+    margin: auto;
+    padding: 20px 5px 20px 5px;
+    overflow: auto;
+    text-align: center;
+    background-image: url(https://www.freewalldownload.com/lake-wallpaper/hd-pleasant-lake-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color:rgb(255, 4, 100)
+}
